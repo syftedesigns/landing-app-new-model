@@ -726,8 +726,7 @@ mat-list-item {
 .price--theme-deep-indigo {
     /*color: #ffffff;
     background-color: #15141b*/
-    background-color: #21D4FD;
-    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+    background-image: linear-gradient(to right, #0acffe 0%, #495aff 100%);
 }
 
 .price-gradient>mat-list-item {

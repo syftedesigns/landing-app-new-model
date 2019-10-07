@@ -14,12 +14,10 @@ button:focus {
     outline: none !important;
 }
 
-.link-text {
-    color: white !important
-}
+.link-text {}
 
 a {
-    color: white !important;
+    color: black !important;
     text-decoration: none;
 }
 
